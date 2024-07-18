@@ -17,6 +17,9 @@
     *  Seasonlity: Seasonality is a periodic component which repeats itself            within a particulat time period.
     * Residuals: the residual is what’s left over when the trend and                 seasonality have been removed. Residuals are random fluctuations.
 ![image](https://github.com/user-attachments/assets/01c25dd0-bf2b-448e-9eeb-4e44f6335d69)
+![image](https://github.com/user-attachments/assets/23f0a6e7-b675-4e25-9ba2-38fc925719dd)
+![image](https://github.com/user-attachments/assets/2c004481-f458-4e5f-abd3-c468010331b9)
+
  
 ## SPLIT DATA INTO TRAIN & TEST :-
 * Train test split in timeseries is different as copared to Machine learning Algforithms. We do random split there where the time component does'nt matters. But in time series we have information dependent on time therefore the spliting is continous without any shuffling of data.
